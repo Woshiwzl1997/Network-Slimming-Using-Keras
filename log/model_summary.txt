@@ -1,0 +1,10 @@
+原始模型
+Total params: 105,989
+Trainable params: 103,749
+Non-trainable params: 2,240
+
+剪枝后模型
+Total params: 74,625
+Trainable params: 73,963
+Non-trainable params: 662
+
